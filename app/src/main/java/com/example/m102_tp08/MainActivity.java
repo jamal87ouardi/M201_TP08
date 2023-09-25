@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
 
                 Double prix = 0.0;
 
+
+
                 if(rbJava.isChecked()) {
 
 
